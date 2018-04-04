@@ -1,5 +1,5 @@
 # ConfigWizard_gen5
-  Configuration-Wizard_gen55
+  Configuration-Wizard_gen5
 
 Diamond Linux Configuration-Wizard GrandMaster DK Gen#5
 
