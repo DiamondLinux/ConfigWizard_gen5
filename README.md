@@ -1,7 +1,7 @@
 # ConfigWizard_gen5
   Configuration-Wizard_gen5
 
-Diamond Linux Configuration-Wizard GrandMaster DK Gen#5
+Diamond Linux Configuration-Wizard GrandMaster amd64 Gen#5
 
 Ver:0-1.2
 
