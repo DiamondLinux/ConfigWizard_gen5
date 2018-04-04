@@ -1,5 +1,4 @@
 # ConfigWizard_gen5
-  Configuration-Wizard_gen5
 
 Diamond Linux Configuration-Wizard GrandMaster amd64 Gen#5
 
