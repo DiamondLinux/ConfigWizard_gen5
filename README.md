@@ -2,11 +2,11 @@
 
 Diamond Linux Configuration-Wizard GrandMaster amd64 Gen#5
 
-Ver:0-1.2
+Ver:0.1-2
 
      Software: Unetbootin, Virtualbox
 
-Ver:0-1.0
+Ver:0.1-0
 
      Addons: rar,unrar,p7zip-rar,w64codecs,chromium-browser,flash-plugins,firmware-realtek,firmware-linux,etc
      
