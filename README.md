@@ -3,7 +3,10 @@ Diamond Linux Configuration-Wizard
 For: 
 
     Diamond Linux amd64 GrandMaster Gen5
+    
+Ver:0.1-3
 
+    3. 11.04.2018 Software - Ocenaudio
 
 Ver:0.1-2
 
