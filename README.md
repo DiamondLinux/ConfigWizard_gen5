@@ -16,7 +16,8 @@ Ver:0.1-0
      
      Drivers: : Amd_Ati, Nvidia, HP
      
-     Configuration: X.Org X server driver,Localization: Brazil, Chinese[beta], French, German, Hindi,
-                    Japanese[beta], Polish, Russian, Spanish
+     Configuration: X.Org X server driver;
+                    Localization: Brazil, Chinese[beta], French, German, Hindi,
+                                  Japanese[beta], Polish, Russian, Spanish
 
      Software: Unetbootin
