@@ -14,10 +14,9 @@ Ver:0.1-0
      Addons: rar,unrar,p7zip-rar,w64codecs,chromium-browser,flash-plugins,
              firmware-realtek,firmware-linux,etc...
      
-     Drivers: : Amd_Ati, Nvidia, HP
+     Drivers: : Amd_Ati, Nvidia, HP, X.Org X server
      
      Configuration: Localization: Brazil, Chinese[beta], French, German, Hindi,
                                   Japanese[beta], Polish, Russian, Spanish;
-                    X.Org X server driver
 
      Software: Unetbootin
