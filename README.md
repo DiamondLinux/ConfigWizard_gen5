@@ -6,11 +6,13 @@ For:
     
 Ver:0.1-3 11.04.2018
 
-    Software - Ocenaudio
-
+    Software: Ocenaudio
+    https://www.ocenaudio.com/
+    
 Ver:0.1-2
 
      Software: Unetbootin, Virtualbox
+     https://unetbootin.github.io/ https://www.virtualbox.org/
 
 Ver:0.1-0
 
