@@ -4,6 +4,12 @@ For:
 
     Diamond Linux amd64 GrandMaster Gen5
     
+
+Ver:0.1-5 30.05.2018
+
+    [Config];[Workspace]- AppLnchRld
+    If Application Menu Not Updating After Software Install
+
 Ver:0.1-3 11.04.2018
 
     Software: Ocenaudio
