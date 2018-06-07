@@ -4,6 +4,14 @@ For:
 
     Diamond Linux amd64 GrandMaster Gen5
     
+Ver:0.1-7 07.06.2018
+
+    [Config];[Workspace] - NetConfig_IPv6
+    Enable/Disable IPv6
+
+Ver:0.1-6 02.06.2018
+
+    {Fixed} - unetbooin
 
 Ver:0.1-5 30.05.2018
 
