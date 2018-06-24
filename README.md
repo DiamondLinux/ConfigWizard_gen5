@@ -3,6 +3,11 @@ Diamond Linux Configuration-Wizard
 For: 
 
     Diamond Linux amd64 GrandMaster Gen5
+
+Ver:0.1-8 24.06.2018
+
+    [Drivers];[ATI] - Updates#1
+
     
 Ver:0.1-7 07.06.2018
 
