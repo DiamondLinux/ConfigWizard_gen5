@@ -4,6 +4,12 @@ For:
 
     Diamond Linux amd64 GrandMaster Gen5
 
+
+Ver:0.1-9 27.06.2018
+
+    [Software] - MSOffice2007
+  
+
 Ver:0.1-8 24.06.2018
 
     [Drivers];[ATI] - Updates#1
