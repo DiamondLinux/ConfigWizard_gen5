@@ -12,7 +12,7 @@ Ver:0.1-9 27.06.2018
 
 Ver:0.1-8 24.06.2018
 
-    [Drivers];[ATI] - Updates#1
+    {Updates}:[Drivers] - ATI#1
 
     
 Ver:0.1-7 07.06.2018
@@ -23,7 +23,7 @@ Ver:0.1-7 07.06.2018
 
 Ver:0.1-6 02.06.2018
 
-    {Fixed} - unetbooin
+    {Fixed}:[Software] - unetbooin
 
 
 Ver:0.1-5 30.05.2018
