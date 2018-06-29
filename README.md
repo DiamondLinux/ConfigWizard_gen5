@@ -5,6 +5,10 @@ For:
     Diamond Linux amd64 GrandMaster Gen5
 
 
+Ver:0.1-10 29.06.2018
+
+    {Fixed}:[Software] - some bugs
+
 Ver:0.1-9 27.06.2018
 
     {Addition}:[Software] - MSOffice2007
