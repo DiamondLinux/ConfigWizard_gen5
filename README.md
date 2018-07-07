@@ -4,6 +4,9 @@ For:
 
     Diamond Linux amd64 GrandMaster Gen5
 
+Ver:0.1-11 06.07.2018
+        
+    [Changes] - DPoL installation script
 
 Ver:0.1-10 29.06.2018
 
