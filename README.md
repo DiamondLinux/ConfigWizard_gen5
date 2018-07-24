@@ -3,6 +3,13 @@ Diamond Linux Configuration-Wizard
 For: 
 
     Diamond Linux amd64 GrandMaster Gen5
+    
+Ver:0.1-12 24.07.2018
+        
+    {Updated}:
+          Drivers: HPlip 3.18.6
+    {Fixed}:
+          Diamond-Configuration-Wizard
 
 Ver:0.1-11 06.07.2018
         
