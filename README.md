@@ -4,6 +4,14 @@ For:
 
     Diamond Linux amd64 GrandMaster Gen5
     
+Ver:0.1-13 25.12.2018
+
+    {Updated}:
+      Drivers: HPlip 3.18.12
+      Software: PlayOnLinux 4.3.4
+    {Fixed}:
+      Diamond-Configuration-Wizard: some FrameWork errors
+      
 Ver:0.1-12 24.07.2018
         
     {Updated}:
